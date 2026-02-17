@@ -59,7 +59,6 @@ data/
 datasets/
 *.csv
 *.tsv
-*.txt
 *.npz
 *.npy
 *.pkl
