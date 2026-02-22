@@ -57,12 +57,8 @@ logs/
 # Local data files (training data, intermediate outputs, large datasets)
 data/
 datasets/
-*.csv
-*.tsv
 *.npz
 *.npy
-*.pkl
-*.h5
 *.hdf5
 *.ckpt
 *.pt
